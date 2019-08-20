@@ -1,0 +1,8 @@
+
+public class Mp3Player {
+
+	public interface Mp3Player {
+		
+	
+	}
+}
