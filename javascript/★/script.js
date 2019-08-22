@@ -64,14 +64,53 @@ for(var n=1; n<=5; n++){
     }document.write("<br>");
 }
 
+document.write("<h1>上級</h1>");
 
+document.write("<p>"+"■■■問1■■■"+"<p>");
 
+for(var p=1; p<=5; p++){
+    for(var q=1; q<=5; q++){
+        document.write("★");
+    }document.write("<br>");
+}
 
+document.write("<p>"+"■■■問2■■■"+"<p>");
 
+for(var r=1; r<=5; r++){
+    for(var s=1; s<=5; s++){
+        if(r%2==0 && s%2==1 || r%2==1 && s%2==0){
+            document.write("☆");}
+        else{document.write("★");}
+    }document.write("<br>");
+}
 
+document.write("<p>"+"■■■問3■■■"+"<p>");
 
+for(var t=1; t<=5; t++){
+    for(var u=1; u<=5; u++){
+        if(u==t){
+            document.write("☆");}
+        else{document.write("★");}
+    }document.write("<br>");
+}
 
+document.write("<p>"+"■■■問4■■■"+"<p>");
 
+for(var v=1; v<=5; v++){
+    for(var w=1; w<=v; w++){
+        document.write("★");}
+    document.write("<br>");
+}
+
+document.write("<p>"+"■■■問5■■■"+"<p>");
+
+for(var x=1; x<=5; x++){
+    for(var y=1; y<=x; y++){
+        if(y==x){
+            document.write("☆");}
+        else{document.write("★");}
+    }document.write("<br>");
+}
 
 
 
