@@ -5,6 +5,7 @@
 <launchConfiguration bookmark="false" name="Capsule"/>
 <launchConfiguration bookmark="false" name="CheckLoadJDBC"/>
 <launchConfiguration bookmark="false" name="Hello World"/>
+<launchConfiguration bookmark="false" name="HelloJSP"/>
 <launchConfiguration bookmark="false" name="HelloWorld"/>
 <launchConfiguration bookmark="false" name="HelloWorld (1)"/>
 <launchConfiguration bookmark="false" name="HelloWorld!"/>
@@ -18,6 +19,7 @@
 <launchConfiguration bookmark="false" name="Test"/>
 <launchConfiguration bookmark="false" name="Test (1)"/>
 <launchConfiguration bookmark="false" name="Test (2)"/>
+<launchConfiguration bookmark="false" name="ローカル・ホスト の Tomcat8 (Java8)"/>
 <launchConfiguration bookmark="false" name="新規構成"/>
 </category>
 </runner>
