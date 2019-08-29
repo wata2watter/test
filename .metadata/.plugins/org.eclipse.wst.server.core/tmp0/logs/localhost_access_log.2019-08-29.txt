@@ -1,0 +1,12 @@
+127.0.0.1 - - [29/Aug/2019:16:48:44 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:16:48:46 +0900] "GET /WebProj/ HTTP/1.1" 200 471
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:16:48:48 +0900] "POST /WebProj/HelloStrutsAction.action;jsessionid=8D64EBE91455FB3C57E0E424DF7A4BB3 HTTP/1.1" 200 148
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:13:33 +0900] "GET /WebProj/ HTTP/1.1" 200 714
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:13:43 +0900] "POST /WebProj/HelloStrutsAction.action HTTP/1.1" 200 148
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:13:45 +0900] "POST /WebProj/WelcomeAction.action HTTP/1.1" 200 870
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:14:04 +0900] "POST /WebProj/LoginAction.action HTTP/1.1" 200 151
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:16:27 +0900] "GET /WebProj/ HTTP/1.1" 200 995
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:50:13 +0900] "GET /WebProj/ HTTP/1.1" 200 1011
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:50:17 +0900] "POST /WebProj/InquiryAction.action HTTP/1.1" 200 950
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:50:34 +0900] "POST /WebProj/InquiryAction.action HTTP/1.1" 200 950
+0:0:0:0:0:0:0:1 - - [29/Aug/2019:17:50:55 +0900] "POST /WebProj/InquiryAction.action HTTP/1.1" 200 950
