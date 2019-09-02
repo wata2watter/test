@@ -1,7 +1,0 @@
-127.0.0.1 - - [30/Aug/2019:17:49:39 +0900] "GET / HTTP/1.1" 404 1019
-0:0:0:0:0:0:0:1 - - [30/Aug/2019:17:49:42 +0900] "GET /WebProj2/ HTTP/1.1" 200 2166
-0:0:0:0:0:0:0:1 - - [30/Aug/2019:17:49:51 +0900] "GET /WebProj2/TestAction.action?username=htr&password=res HTTP/1.1" 404 1053
-0:0:0:0:0:0:0:1 - - [30/Aug/2019:17:49:57 +0900] "POST /WebProj2/TestAction.action HTTP/1.1" 404 1053
-0:0:0:0:0:0:0:1 - - [30/Aug/2019:17:50:14 +0900] "GET /WebProj2/TestAction.action?username=taro&password=123 HTTP/1.1" 404 1053
-0:0:0:0:0:0:0:1 - - [30/Aug/2019:17:50:51 +0900] "GET /WebProj2/ HTTP/1.1" 200 2166
-0:0:0:0:0:0:0:1 - - [30/Aug/2019:17:50:56 +0900] "GET /WebProj2/TestAction.action?username=ewtge&password=wef HTTP/1.1" 404 1053
