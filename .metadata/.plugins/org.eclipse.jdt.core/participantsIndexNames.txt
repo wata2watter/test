@@ -1,3 +1,0 @@
-INDEX VERSION 1.127
-C:\Users\internousdev\Desktop\workspace\workspace-watanabe\test\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1549101164.index
-\WebProj2\src
