@@ -25,7 +25,7 @@
 	<s:form method="get" action="TestAction">
 		<s:textfield name="username" />
 		<s:password name="password" />
-		<s:submit value="送信" />2
+		<s:submit value="送信" />
 	</s:form>
 
 	POST通信
