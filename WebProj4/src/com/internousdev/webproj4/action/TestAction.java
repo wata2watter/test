@@ -50,7 +50,7 @@ public class TestAction extends ActionSupport {
 		return loginDTOList;
 	}
 
-	public void setLoginDTOList(List<LoginDTO> LoginDTOList) {
+	public void setLoginDTOList(List<LoginDTO> loginDTOList) {
 		this.loginDTOList = loginDTOList;
 	}
 }

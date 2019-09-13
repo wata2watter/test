@@ -38,7 +38,20 @@
 			<result name="success">userCreateComplete.jsp</result>
 		</action>
 
+		<action name="BuyItemAction" class="com.internousdev.easysite.action.BuyItemAction"
+			method="execute">
+			<result name="success">buyItemConfirm.jsp</result>
+		</action>
 
+		<action name="BuyItemConfirmAction"
+			class="com.internousdev.easysite.action.BuyItemConfirmAction" method="execute">
+			<result name="success">buyItemComplete.jsp</result>
+		</action>
+
+		<action name="MyPageAction" class="com.internousdev.easysite.action.MyPageAction"
+			method="execute">
+			<result name="success">myPage.jsp</result>
+		</action>
 
 	</package>
 </struts>
